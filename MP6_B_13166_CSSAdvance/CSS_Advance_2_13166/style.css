@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: #000000;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+#wrapper {
+    width: 720px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #ffffff;
+    padding: 30px;
+    border: 1px solid #d0d7de;
+}
+
+h1 {
+    text-align: center;
+    color: #1f2328;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+table {
+    border-style: groove;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #d1f486;
+    margin-bottom: 15px;
+}
+
+td, th {
+    border-style: groove;
+    padding: 10px;
+}
+
+input, select, textarea {
+    font-family: inherit;
+}
+
+tr.regrow td {
+    background-color: #d1f486;
+}
